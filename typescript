@@ -1,0 +1,5 @@
+Script started on 2020-05-15 12:12:56+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="158" LINES="28"]
+]0;root@satoshi-tm1703: /home/satoshi/devopswithdockerroot@satoshi-tm1703:/home/satoshi/devopswithdocker# exitsudo groupadd dockerls[Ksudo groupadd dockerls[Kmicro 1.2docker images[1Pps -a[10@system prune[C[C[Cek[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cke[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pps[C[C[Cimages[4Pmicro 1.2ls[Ksudo groupadd dockerexit[K[Kexit
+exit
+
+Script done on 2020-05-15 12:13:04+03:00 [COMMAND_EXIT_CODE="0"]
