@@ -1,0 +1,24 @@
+root@satoshi-tm1703:/home/satoshi/devopswithdocker# docker exec -it brave_wiles bash
+root@28a52385b941:/usr/app# tail -f ./logs.txdt
+tail: cannot open './logs.txdt' for reading: No such file or directory
+tail: no files remaining
+root@28a52385b941:/usr/app# tail -f ./logs.txt 
+Fri, 15 May 2020 02:01:00 GMT
+Fri, 15 May 2020 02:01:03 GMT
+Fri, 15 May 2020 02:01:06 GMT
+Fri, 15 May 2020 02:01:09 GMT
+Secret message is:
+"Docker is easy"
+Fri, 15 May 2020 02:01:15 GMT
+Fri, 15 May 2020 02:01:18 GMT
+Fri, 15 May 2020 02:01:21 GMT
+Fri, 15 May 2020 02:01:24 GMT
+Secret message is:
+"Docker is easy"
+Fri, 15 May 2020 02:01:30 GMT
+Fri, 15 May 2020 02:01:33 GMT
+Fri, 15 May 2020 02:01:36 GMT
+^C
+root@28a52385b941:/usr/app# exit
+exit
+root@satoshi-tm1703:/home/satoshi/devopswithdocker# 
